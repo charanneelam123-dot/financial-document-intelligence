@@ -1,5 +1,7 @@
 # Financial Document Intelligence
 
+**[Open the live app](https://financial-document-intelligence-o3k2.onrender.com)** · [API documentation](https://financial-document-intelligence-o3k2.onrender.com/docs)
+
 A useful answer should make the disclosure behind it easy to inspect.
 
 The application ingests fictional disclosures, chunks them with overlap, and

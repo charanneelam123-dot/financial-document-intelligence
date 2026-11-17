@@ -1,0 +1,19 @@
+{
+  "repo": "financial-document-intelligence",
+  "url": "https://financial-document-intelligence-o3k2.onrender.com",
+  "health": "passed",
+  "functional_check": {
+    "retrieval_and_metadata_filters": "passed",
+    "mode": "extractive"
+  },
+  "deployment_status": "live",
+  "deployed_code_commit": "3af9c158630f1cb720a26eeb54c29671738fa47e",
+  "deploy_id": "dep-dbuduogae00c73e8gglg",
+  "verified_on": "2026-11-17",
+  "compute_plan": "free",
+  "auto_deploy": false,
+  "limitations": [
+    "Model calls require server-side credentials and operator token.",
+    "Free instance storage is ephemeral; idle starts may take time."
+  ]
+}
